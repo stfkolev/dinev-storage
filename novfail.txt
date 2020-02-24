@@ -3,4 +3,8 @@ fail texta e tuk
 This is old
 asdasd
 mitko
+<<<<<<< HEAD
 mitkoasdkodaad
+=======
+Kolev is this
+>>>>>>> refs/remotes/origin/master
